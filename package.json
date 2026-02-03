@@ -31,5 +31,10 @@
   "scripts": {
     "test": "node --test"
   },
+  "files": [
+    "src",
+    "README.md",
+    "LICENSE"
+  ],
   "license": "Apache-2.0"
 }
